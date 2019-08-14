@@ -132,6 +132,10 @@
             <a rel="nofollow" href="http://www.seleniummaster.com">Selenium Master</a> -
             Selenium Test Automation Training, Selenium Test Framework Design, QA Project Assistance.
         </li>
+        <li>
+            <a rel="nofollow" href="http://www.encartalabs.com/course-catalogue-test-automation.php">Encarta Labs Private Limited</a> -
+            Consulting and Corporate Training in Selenium using Java/C#/Python, Selenide, Protractor, Katalon Studio, Cypress, Robot Framework
+        </li>
     </ul>
 
     <p>
